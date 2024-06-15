@@ -114,3 +114,4 @@ https://drive.google.com/drive/folders/1TgZNGPd7TBWi47dWh0TI2nZ_9WUhv_P_?usp=sha
 1. To start the client+app: `pm2 start all`
 2. To stop the client+app: `pm2 stop all`
 3. Other Useful commands: `pm2 status`, `pm2 logs`, `pm2 monit` See [PM2 Quickstart](https://pm2.keymetrics.io/docs/usage/quick-start/) for more.
+ 
